@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SomeComponent matches snapshot 1`] = `
+<div>
+  <div
+    role="main"
+  >
+    <button>
+      Click me
+    </button>
+  </div>
+</div>
+`;
